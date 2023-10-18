@@ -7,7 +7,7 @@
 <p align="center">
   <em>A Full Stack Software Developer</em>
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there, I'm Mohammed Ilyas Ahmed 👋;A Full Stack Software Developer+)](https://git.io/typing-svg)
 ---
 
 ## 🚀 About Me
