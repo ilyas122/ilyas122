@@ -1,7 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Mohammed+Ilyas+Ahmed)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+stack+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25C23D&center=true&multiline=true&random=false&width=435&lines=Hi+there!;My+name+is+Mohammed+Ilyas+Ahmed;I'm+a+Full-Stack+Software+Developer!)](https://git.io/typing-svg)
 ---
 
 ## 🚀 About Me
