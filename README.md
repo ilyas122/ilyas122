@@ -12,26 +12,19 @@
 
 ## 🎓 Education
 
-- **Masters in Computer Science**
-  - San Jose State University, California, USA
-  - Aug 2022 - May 2024
+- **Masters in Computer Science**  - San Jose State University, California, USA
+  
  
 
-- **Bachelors in Computer Science**
-  - JTNU-H, India
-  - Jun 2014 - Sep 2018
-
+- **Bachelors in Computer Science** - JNTUH, India
 ---
 
 ## 💼 Experience
 
-- **Associate Software Developer**
-  - Tata Consultancy Services, India
-  - Feb 2021 - Jun 2022
+- **Associate Software Developer**  - Tata Consultancy Services, India
 
-- **Software Engineer Intern**
-  - Web Tek Labs, India
-  - Sept 2020 - Dec 2020
+- **Software Engineer Intern**  - Web Tek Labs, India
+ 
 
 ---
 
