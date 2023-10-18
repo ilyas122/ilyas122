@@ -43,6 +43,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ilyasahmed)
