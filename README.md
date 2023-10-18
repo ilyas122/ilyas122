@@ -1,13 +1,5 @@
-<h1 align="center">Hi there, I'm Mohammed Ilyas Ahmed 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedilyasahmed/">LinkedIn</a> • <a href="https://github.com/ilyas122">GitHub</a>
-</p>
-
-<p align="center">
-  <em>A Full Stack Software Developer</em>
-</p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there, I'm Mohammed Ilyas Ahmed 👋;A Full Stack Software Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;My+name+is+Mohammed+Ilyas+Ahmed;I'm+a+Full+stack+Software+Developer)](https://git.io/typing-svg)
 ---
 
 ## 🚀 About Me
