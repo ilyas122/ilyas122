@@ -20,7 +20,7 @@
 
 ### Education
 
-- 2022 - 2024, Masters in Computer Science @ San Jose State University, California, USA
+- 2022 - 2024, Masters in Software Engineering @ San Jose State University, California, USA
 - 2016 - 2020, Bachelors in Computer Science @ JTNU-H , India
 
 ### Experience
