@@ -21,7 +21,7 @@
 ### Education
 
 - 2022 - 2024, Masters in Software Engineering @ San Jose State University, California, USA
-- 2016 - 2020, Bachelors in Computer Science @ JTNU-H , India
+- 2016 - 2020, Bachelors in Computer Science @ Jawahar Lal Nehru Technological University, India
 
 ### Experience
 - Jan 2023 - Present: Instructional Student Assistant - CMPE 287: Software Quality Assurance and Testing @ San Jose State University 
