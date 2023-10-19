@@ -30,7 +30,7 @@
 
 
 <sub><p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilyas122&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ilyas122)](https://git.io/streak-stats)
 </p></sub>
 
 
