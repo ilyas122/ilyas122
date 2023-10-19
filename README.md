@@ -28,13 +28,6 @@
 - Feb 2021 - Jun 2022: Associate Software Developer  @ TCS, India.
 - Sept 2020 - Dec 2020, Software Engineer Intern @ Web Tek Labs, India.
 
-
-<sub><p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ilyas122)](https://git.io/streak-stats)
-</p></sub>
-
-
-
 <h3>Where to find me ?</h3>
 <p>
   <a href="https://www.linkedin.com/in/mohammedilyasahmed/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
